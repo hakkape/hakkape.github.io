@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /about
+  - title: "External Link"
+    url: https://google.com
+  - title: "CV"
+    url: /cv
